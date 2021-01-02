@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CherishDialogView">
+        <attr name="cherish_radius" format="dimension"/>
+        <attr name="cherish_stroke_width" format="dimension"/>
+        <attr name="cherish_stroke_color" format="color"/>
+    </declare-styleable>
+</resources>
